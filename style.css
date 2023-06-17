@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(223, 99, 124);
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+}
